@@ -5,7 +5,6 @@
 #ifndef HT16K33LED_HPP
 #define HT16K33LED_HPP
 
-#include <array>
 #include <Wire.h>
 #include <Arduino.h>
 
